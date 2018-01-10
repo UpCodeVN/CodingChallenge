@@ -1,0 +1,2 @@
+# CodingChallenge
+Exercises about JS
