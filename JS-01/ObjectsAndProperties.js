@@ -1,10 +1,10 @@
 //Array
 var people = {
-    name : 'Phuc',
-    lastName : 'Van',
-    age : 18,
-    job : 'developer',
-    address : '23 Wall Street'
+    name: 'Phuc',
+    lastName: 'Van',
+    age: 18,
+    job: 'developer',
+    address: '23 Wall Street'
 };
 console.log(people);
 console.log(people.name);
@@ -20,10 +20,10 @@ people.age = 23;
 console.log(people.age);
 
 // create a object
-var Phu = new  Object();
+var Phu = new Object();
 Phu.name = 'Phu';
 Phu.lastName = 'Thien';
 Phu.age = 25;
 Phu.job = 'sale';
 
-console.log(Phu);   
+console.log(Phu);
